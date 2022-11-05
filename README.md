@@ -1,4 +1,3 @@
-[![Build Status](http://ec2-3-7-104-120.ap-south-1.compute.amazonaws.com/job/pi--challenge-solution/badge/icon)](http://ec2-3-7-104-120.ap-south-1.compute.amazonaws.com/job/pi--challenge-solution/)
 
 # 03_05 Challenge Connect Jenkins to GitHub
 
